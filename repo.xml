@@ -3,7 +3,7 @@
 	  <title lang="EN">DisplayOff</title>
   </details>
   <applets>
-    <applet name="DisplayOff" version="0.1" minTarget="7.7" maxTarget="8.*" target="fab4">
+    <applet name="DisplayOff" version="0.1" minTarget="7.7" maxTarget="*" target="fab4">
       <title lang="EN">Display Off</title>
       <desc  lang="EN">Replacement for Screen Off screensaver which disables screen processing when off.  Intended to be used as a when playing or when off screensaver.</desc>
       <creator>Triode</creator>
